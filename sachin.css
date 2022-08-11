@@ -1,0 +1,117 @@
+body {
+    background-color: rgb(196, 237, 251);
+}
+
+#sti {
+    width: 150px;
+    background-color: rgba(196, 237, 251, 0.695);
+    font-family: 'Square Peg', cursive;
+    border-radius: 15px;
+    font-size: 30px;
+    color: rgb(2, 112, 133);
+    position: sticky;
+    top: 1px;
+    margin-left: 10px;
+}
+
+header{
+    width: 100%;
+    background-color: rgb(149, 229, 255);
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+}
+.l{
+    background-color: rgb(196, 237, 251);
+    width:18%;
+    height: 25px;
+    padding: 5px;
+    margin: 5px;
+    text-align: center;
+}
+#a1{
+    color: rgb(4, 178, 205);
+}
+
+#icon {
+    border-radius: 100%;
+    width: 250px;
+    height: 250px;
+    margin: 10px;
+}
+#head1{
+    width: auto;
+    margin-left: 300px;
+    margin-top: -250px;
+}
+
+h1 {
+    font-family: 'Josefin Sans', sans-serif;
+    color: darkcyan;
+}
+
+#d1 {
+    width: 98%;
+    padding: 5px;
+    color: cadetblue;
+    margin: 10px;
+}
+
+p {
+    font-family: 'Uchen', serif;
+}
+
+#v_w {
+    width: 100%;
+    display: flex;
+}
+
+#d_v,
+#d_w {
+    width: 50%;
+}
+
+#wri {
+    width:400px;
+    height: 550px;
+    padding-left: 45px;
+    margin-left: 70%;
+    margin-top: 20px;
+    border: 4px;
+    border-style: double;
+    border-color: cornflowerblue;
+}
+
+
+#play{
+    width: 100px;
+    border: 2px;
+    border-style: dotted;
+    border-color: brown;
+}
+
+#awa_pic{
+    width: 250px;
+    border: 2px;
+    border-style: dotted;
+    border-color: brown;
+}
+
+#awa{
+    color: rgb(2, 144, 75);
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 35px;
+}
+
+#map {
+    padding: 10px;
+    margin-top: -100%;
+}
+
+footer {
+    background-color: rgb(168, 227, 246);
+    padding: 15px;
+    color: cadetblue;
+    border: 2px;
+    border-style: dashed;
+}
